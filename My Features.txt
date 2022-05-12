@@ -1,0 +1,7 @@
+I am practicing git.
+	=>for version controlling
+	=>manage all branch
+	=>git flow
+	=>using ssh
+
+
