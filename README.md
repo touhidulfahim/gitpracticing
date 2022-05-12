@@ -1,5 +1,5 @@
 # Git Practicing
-## Modules are:
+## Topics are:
 * **Using git through SSH**
 * **Understanding Gitflow**
 * **Use case of tortoise git**
